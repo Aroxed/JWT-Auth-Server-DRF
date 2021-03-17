@@ -1,0 +1,22 @@
+# Energy project gitignore file
+
+# Python cache
+__pycache__
+
+# Compiled Python bytecode
+*.py[cod]
+
+# JetBrains IDE
+.idea/
+bin/
+include/
+lib/
+lib64/
+share/
+
+# Log files
+*.loge
+.logs/*.log
+
+# Conf files
+.conf/*.cnf
